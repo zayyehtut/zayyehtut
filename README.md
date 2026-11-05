@@ -1,47 +1,31 @@
-<div align="center">
+# Hi, I'm @zayyehtut
 
-# Hey, I'm @zayyehtut 👋
+I build small tools, mostly because I want them to exist.
 
-**Full-stack developer building web, mobile and AI-powered tools.**
+It usually starts with an annoyance — splitting costs with one person, installing a UI component without leaving the editor, reading job posts that all sound the same. I make a version, use it for a month, and if it still earns its place it stays up. That's the filter.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+Some of what's here stuck. Some is the record of an idea that didn't survive a month of use. I keep both — deleting takes more effort than leaving it be.
 
-</div>
+## What I'm working on
 
----
+**[HalfOrFull](https://github.com/zayyehtut/HalfOrFull)** — an expense ledger for two people who share costs. Log spending as half or full. It syncs when there's signal, and you settle up when the balance drifts. I use it, which is the only reason it keeps moving. The part I keep coming back to is offline edits merging without either person noticing. · *Expo · React Native · Supabase*
 
-## 🚀 Featured projects
+A few other small tools are in progress, mostly things that started as scripts and needed a window.
 
-| Project | What it is |
-| :--- | :--- |
-| [shadcn-import-helper](https://github.com/zayyehtut/shadcn-import-helper) | VS Code extension that makes installing shadcn/ui components painless |
-| [job-hunter](https://github.com/zayyehtut/job-hunter) | Chrome extension that scans job posts with AI and tracks applications |
-| [HalfOrFull](https://github.com/zayyehtut/HalfOrFull) | Offline-first shared expense ledger for two people (Expo + Supabase) |
-| [Fetch-Predict](https://github.com/zayyehtut/Fetch-Predict) | AI pet-health forecasting demo (React + Gemini) |
-| [fullstack-todo](https://github.com/zayyehtut/fullstack-todo) | Full-stack Next.js 14 + Express to-do app |
-| [university-course-management](https://github.com/zayyehtut/university-course-management) | Spring Boot microservices course-management system |
+## Things I've shipped
 
-## 🧰 What I work with
+**[shadcn-import-helper](https://github.com/zayyehtut/shadcn-import-helper)** — a VS Code extension that adds shadcn/ui components without leaving the editor. · *TypeScript*
 
-- **Web** — TypeScript, React, Next.js, Node.js, Tailwind & shadcn/ui
-- **Mobile** — React Native / Expo, Flutter & Dart
-- **Backend** — Java 21 / Spring Boot microservices, Kafka, REST; Python
-- **Data & cloud** — Supabase, Firebase, H2 / PostgreSQL
-- **AI** — Gemini API integrations, AI Studio apps, browser & CLI tooling
+**[job-hunter](https://github.com/zayyehtut/job-hunter)** — a browser extension that reads job posts, pulls out the useful parts, and keeps track of applications. · *Plasmo · TypeScript · Gemini*
 
-## 📌 Pinned
+**[Fetch-Predict](https://github.com/zayyehtut/Fetch-Predict)** — an AI pet-health forecast: photo in, breed read and lifetime cost estimate out. Started as a demo and stayed around. · *React · Gemini*
 
-Check the pinned repositories below for the projects I'm most proud of.
+**[crop-vision](https://github.com/zayyehtut/crop-vision)** — a Flutter app that recognizes weeds and plant disease from a photo. Kept from an older capstone. · *Flutter · Firebase · Groq*
 
----
+## Toolbox
 
-<sub>Open an issue on any repository if you want to get in touch.</sub>
+TypeScript · React · Next.js · Expo / React Native · Java / Spring Boot · Python · Dart / Flutter · Supabase · Firebase · SQLite · GitHub Actions
+
+## Elsewhere
+
+GitHub is where I keep things. If something here is useful, open an issue.
